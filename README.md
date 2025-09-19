@@ -9,7 +9,7 @@
 
 ## Lag en fork og et Codespace
 
-* Dette begynner å bli kjent nå, right? 
+* Dette begynner å bli kjent nå, right?  - neii
 * Du må start med å lage en fork av dette repoet til din egen GitHub konto. 
 
 ## Installer AWS CLI i ditt codespace 
